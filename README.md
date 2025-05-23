@@ -24,6 +24,9 @@ If I'm not coding, I am probably playing my favorite video game, **Infinity Nikk
 - REACTJS
 - PYTHON
 - FLASK
+- JAVASCRIPT
+- SQL
+- SQLITE
 
 
 
