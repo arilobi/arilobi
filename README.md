@@ -11,8 +11,6 @@ I started my passion for coding on freecodecamp.
 
 I am a digital artist who specializes in drawing portraits and cute illustrations.
 
-I love dancing. That is my form of cardio despite being 46 kgs!
-
 I love cats and hope to adopt one when I get my first job!
 
 I love creative writing and write stories part-time for fun. 
