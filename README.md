@@ -7,17 +7,11 @@ I aspire to be a Frontend developer where I can create an interactive and aesthe
 
 **Fun Facts**
 
-I started my passion for coding on freecodecamp.
+* I started my passion for coding on freecodecamp.
 
-I am a digital artist who specializes in drawing portraits and cute illustrations.
+* I am a digital artist who specializes in drawing portraits.
 
-I love cats and hope to adopt one when I get my first job!
-
-I love creative writing and write stories part-time for fun. 
-
-My favorite animation that gets me out of my sad days is Madagascar 3.
-
-If I'm not coding, I am probably playing my favorite video game, **Infinity Nikki**
+* If I'm not coding, I'm designing website applications on Figma. 
 
 ## My current Tech Stack
 - CSS
