@@ -1,7 +1,6 @@
 ## Hi there 👋 my name is Marion Nabulobi!
 
-I'm a software developer with a love of mixing my design skills with my coding skills where I can create an interactive and aesthetically pleasing UI that will catch a user's eye when they come across apps that I have developed or have received aid from fellow developers. 
-
+I'm a software developer with a love of mixing my design skills with my coding skills where I can create interactive and aesthetically pleasing UI.
 [Portfolio](https://marion-nabulobi.vercel.app/)
 
 **Fun Facts**
