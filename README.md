@@ -1,8 +1,8 @@
 ## Hi there 👋 my name is Marion Nabulobi!
 
-I'm a software developer with a love of mixing my design skills with my coding skills where I can create interactive and aesthetically pleasing UI.
+I'm a software developer with a love of mixing my design skills with my coding skills where I can create interactive and aesthetically pleasing User Interfaces
 
-[Portfolio](https://marion-nabulobi.vercel.app/)
+Check out my [Portfolio](https://marion-nabulobi.vercel.app/)
 
 **Fun Facts**
 
@@ -10,7 +10,7 @@ I'm a software developer with a love of mixing my design skills with my coding s
 
 * I am a digital artist who specializes in drawing portraits.
 
-* If I'm not coding, I'm designing website applications on Figma. 
+* If I'm not coding, I'm drawing, designing website applications on Figma or playing video games.
 
 ## My current Tech Stack
 - CSS
