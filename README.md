@@ -2,7 +2,7 @@
 
 I'm a software developer with a love of mixing my design skills with my coding skills where I can create interactive and aesthetically pleasing User Interfaces
 
-Check out my [Portfolio](https://marion-nabulobi.vercel.app/)
+Check out my [Portfolio](https://shecodescss.netlify.app/)
 
 **Fun Facts**
 
