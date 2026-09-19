@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Marion Nabulobi!
 
-I'm a software developer with a love of mixing my design skills with my coding skills where I can create interactive and aesthetically pleasing User Interfaces
+I'm a Frontend Developer who loves turning creative ideas into interactive, visually engaging interfaces through design and code.
 
 Check out my [Portfolio](https://shecodes-css.netlify.app/)
 
@@ -8,18 +8,28 @@ Check out my [Portfolio](https://shecodes-css.netlify.app/)
 
 * I started my passion for coding on freecodecamp.
 
-* I am a digital artist who specializes in drawing portraits.
+* Probably reading a book when I'm not coding.
+  
+* I can spend way too long tweaking a UI until it feels right.
 
 * If I'm not coding, I'm drawing, designing website applications on Figma or playing video games.
+  
+* I like making pretty things that actually work.
 
 ## My current Tech Stack
-- CSS
-- REACTJS
-- PYTHON
-- FLASK
-- JAVASCRIPT
-- SQL
-- SQLITE
+### Languages
+JavaScript · Python · SQL · HTML5 · CSS3
+### Frontend
+React · Tailwind CSS · Bootstrap · GSAP · Vite
+### Backend & APIs
+Flask · REST APIs · JWT · JSON
+### Databases
+PostgreSQL · JSON Server
+### Design
+Figma · Framer · Adobe XD
+### Tools
+Git · GitHub
+
 
 
 
