@@ -18,15 +18,15 @@ Check out my [Portfolio](https://shecodes-css.netlify.app/)
 
 ## My current Tech Stack
 ### Languages
-JavaScript · Python · SQL · HTML5 · CSS3
+JavaScript · Python · SQL · HTML5 · CSS3 · Typescript
 ### Frontend
 React · Tailwind CSS · Bootstrap · GSAP · Vite
 ### Backend & APIs
 Flask · REST APIs · JWT · JSON
 ### Databases
-PostgreSQL · JSON Server
+PostgreSQL · JSON Server · SQL
 ### Design
-Figma · Framer · Adobe XD
+Figma · Adobe XD
 ### Tools
 Git · GitHub
 
