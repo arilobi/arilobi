@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Marion Nabulobi!
 
-I'm a Frontend Developer who loves turning creative ideas into interactive, visually engaging interfaces through design and code.
+I'm a Design Engineer who loves turning creative ideas into interactive, visually engaging digital experiences through thoughtful design and front-end development.
 
 Check out my [Portfolio](https://shecodes-css.netlify.app/)
 
